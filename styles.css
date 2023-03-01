@@ -163,7 +163,7 @@ a{
 }
 .profile{
     border-radius:50%;
-    background-color:black;
+    background:url(johnny-test.jpg);
     height:2rem;
     width:2rem;
 }
