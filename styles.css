@@ -226,6 +226,11 @@ button{
     height:225px;
     border-radius: .5rem;
     box-shadow: .2rem .2rem .5rem 0 rgb(25, 25, 25, .35);
+    transition:300ms ease;
+}
+
+.project:hover{
+    transform: translate(-.5%, -2.5%);
 }
 
 .highlight{
